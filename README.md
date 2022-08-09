@@ -16,3 +16,6 @@ Sentiment Analysis based on Reviews
 This project is based on the dataset provided by Olist
 
 Here is the completed dashboard
+
+[Dashboard](https://github.com/Kalaivani-sg/Olist-Ecommerce-Analysis-using-Power-BI/blob/main/Dashboard.jpg)
+
